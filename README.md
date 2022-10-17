@@ -1,4 +1,4 @@
-<div class='container'; style="width:800px; margin:0 auto;">
+<div class='container'>
 <img style="height: auto; width: auto;" class="img" src="https://raw.githubusercontent.com/blazepp/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 &nbsp;
 &nbsp;
