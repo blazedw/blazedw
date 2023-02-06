@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Git Config   23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+Bash         19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+INI          14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+Other        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
 ```
 
 <!--END_SECTION:waka-->
