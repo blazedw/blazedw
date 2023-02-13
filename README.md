@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+sshconfig   22 mins         █████████████▒░░░░░░░░░░░   53.27 %
+Other       17 mins         ██████████▒░░░░░░░░░░░░░░   41.73 %
 ```
 
 <!--END_SECTION:waka-->
