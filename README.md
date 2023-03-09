@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua     27 mins         ████████████████████▒░░░░   80.71 %
-netrw   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-INI     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
