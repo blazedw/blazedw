@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+zsh    1 min           █████████████████▓░░░░░░░   71.05 %
+Bash   0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.95 %
 ```
 
 <!--END_SECTION:waka-->
