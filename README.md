@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+sshconfig   7 mins          █████████████▒░░░░░░░░░░░   53.29 %
+Other       6 mins          ███████████▓░░░░░░░░░░░░░   46.71 %
 ```
 
 <!--END_SECTION:waka-->
