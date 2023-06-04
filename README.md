@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-sshconfig   20 mins         ███████████████████░░░░░░   76.23 %
-zsh         5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Other       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
