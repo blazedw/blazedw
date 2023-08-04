@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+conf         1 hr 39 mins    ██████████▓░░░░░░░░░░░░░░   42.05 %
+Other        49 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+INI          27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Lua          27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Bash         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
 ```
 
 <!--END_SECTION:waka-->
