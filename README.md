@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+conf      1 hr 21 mins    ███████████░░░░░░░░░░░░░░   44.10 %
+jsonc     36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+TOML      33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Other     16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+CSS       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
