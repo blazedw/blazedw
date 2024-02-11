@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML        59 mins         ██████████▓░░░░░░░░░░░░░░   42.92 %
-CSS         32 mins         ██████░░░░░░░░░░░░░░░░░░░   23.78 %
-conf        18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Other       12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-desktop     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
