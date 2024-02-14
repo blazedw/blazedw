@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+conf    14 mins         █████████████████░░░░░░░░   68.44 %
+Other   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+Bash    2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
 ```
 
 <!--END_SECTION:waka-->
