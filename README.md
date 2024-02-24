@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-conf    19 mins         ████████████████▓░░░░░░░░   66.08 %
-CSS     7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-sh      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Other   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
