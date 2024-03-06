@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-jsonc     1 hr 33 mins    █████████████████▒░░░░░░░   69.73 %
-CSS       17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-conf      11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-modconf   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Other     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
