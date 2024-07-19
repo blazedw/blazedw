@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   8 mins          █████████████████████████   100.00 %
+Other   8 mins          ██████████████▓░░░░░░░░░░   58.40 %
+conf    5 mins          ██████████▒░░░░░░░░░░░░░░   41.60 %
 ```
 
 <!--END_SECTION:waka-->
