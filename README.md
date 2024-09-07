@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-zathurarc   0 secs          █████████████████████████   100.00 %
+conf        1 min           ██████████████████████░░░   87.39 %
+zathurarc   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
 ```
 
 <!--END_SECTION:waka-->
